@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+
+}
+
+.container #form-data-diri{
+	padding-top:70px;	
+	text-align:left;
+}
+
+.container #form-data-diri label{
+	text-align:left;
+}
+
